@@ -9,9 +9,3 @@ seaborn==0.13.2
 statsmodels==0.14.1
 zenml==0.65.0
 ipykernel
-
-
-#zenml experiment-tracker register mlflow_price1_tracker --flavor=mlflow
-#zenml model-deployer register mlflow_price1 --flavor=mlflow
-#zenml stack register local-mlflow-price-stack -a default -o default -d mlflow_price1 -e mlflow_tracker --set
-#mlflow ui --backend-store-uri "file:C:\Users\manoj\AppData\Roaming\zenml\local_stores\4c4601ce-a82d-4611-a4db-6be20f7ee2ac\mlruns"
