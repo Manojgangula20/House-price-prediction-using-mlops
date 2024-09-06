@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/bf54012969bc4aab8b4c0b0d2ca8348f/artifacts
+end_time: 1725516343741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf54012969bc4aab8b4c0b0d2ca8348f
+run_name: popular-swan-982
+run_uuid: bf54012969bc4aab8b4c0b0d2ca8348f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725516312011
+status: 3
+tags: []
+user_id: manoj

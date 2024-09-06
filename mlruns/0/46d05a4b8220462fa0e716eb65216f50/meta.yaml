@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/46d05a4b8220462fa0e716eb65216f50/artifacts
+end_time: 1725517182070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d05a4b8220462fa0e716eb65216f50
+run_name: judicious-dove-496
+run_uuid: 46d05a4b8220462fa0e716eb65216f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725517166870
+status: 3
+tags: []
+user_id: manoj

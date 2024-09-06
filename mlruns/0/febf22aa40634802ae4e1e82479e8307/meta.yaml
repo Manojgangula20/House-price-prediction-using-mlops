@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/febf22aa40634802ae4e1e82479e8307/artifacts
+end_time: 1725636346302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: febf22aa40634802ae4e1e82479e8307
+run_name: sassy-auk-75
+run_uuid: febf22aa40634802ae4e1e82479e8307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725636332749
+status: 3
+tags: []
+user_id: manoj

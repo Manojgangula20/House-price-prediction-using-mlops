@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/mlruns/0/2b2946020f334fea8e5d19d7108e02f4/artifacts
+end_time: 1725636577648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2946020f334fea8e5d19d7108e02f4
+run_name: brawny-wasp-518
+run_uuid: 2b2946020f334fea8e5d19d7108e02f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725636565033
+status: 3
+tags: []
+user_id: manoj
